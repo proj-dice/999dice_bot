@@ -4,6 +4,6 @@ pkg install termux-api -y
 pip2 install ssl
 pip2 install mime
 pip2 install colorama
-pip2 install smtplib
-pip2 install bs4
 pip2 install requests
+pip2 install bs4
+
