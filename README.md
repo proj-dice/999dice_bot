@@ -11,3 +11,10 @@ You can install package using install.sh:
 sh install.sh
 
 ```
+
+## Run On Termux Or Linux
+
+```bash
+python2 999dice.py
+```
+
