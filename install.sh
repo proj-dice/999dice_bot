@@ -1,7 +1,6 @@
 pkg install python2 -y
 pkg install curl -y
 pkg install termux-api -y
-pkg update
 pip2 install ssl
 pip2 install mime
 pip2 install colorama
