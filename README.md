@@ -5,9 +5,9 @@ It's initial version of 999dice.com Python2 library!
 
 You can install package using install.sh:
 
-'''bash
+```bash
 # Install package
 
 sh install.sh
 
-'''
+```
