@@ -15,6 +15,6 @@ sh install.sh
 ## Run On Termux Or Linux
 
 ```bash
-python2 999dice.py
+python2 dice.py
 ```
 
