@@ -6,7 +6,8 @@ You can grab this file to your media with git
 On Termux 
 ```
 - pkg install git
-- git clone 
+- git clone https://github.com/proj-dice/999dice_bot.git
+
 ```
 
 ## Install
