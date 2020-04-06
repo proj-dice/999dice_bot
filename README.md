@@ -24,6 +24,8 @@ sh install.sh
 ## Run On Termux Or Linux
 
 ```bash
-python2 dice.py
+python2 doge.py
+or
+python2 ltc.py
 ```
 
