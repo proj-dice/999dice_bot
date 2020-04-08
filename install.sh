@@ -1,4 +1,5 @@
 pkg install python2 -y
+pkg install python-pip
 pkg install curl -y
 pkg install termux-api -y
 pip2 install mime
