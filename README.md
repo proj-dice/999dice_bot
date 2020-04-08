@@ -25,7 +25,5 @@ sh install.sh
 
 ```bash
 python2 doge.py
-or
-python2 ltc.py
 ```
 
